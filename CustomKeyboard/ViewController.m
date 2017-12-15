@@ -20,7 +20,7 @@
     UITextField *textfield = [[UITextField alloc]initWithFrame:CGRectMake(50, 100, 200, 100)];
     textfield.borderStyle = UITextBorderStyleLine;
     [self.view addSubview:textfield];
-    CustomInputView *inputview = [CustomInputView createInputViewWithView:textfield title:@"安全键盘" type:CustomKeyboardTypeLetter|CustomKeyboardTypeCharacters|CustomKeyboardTypeNumber radom:YES];
+//    CustomInputView *inputview = [CustomInputView createInputViewWithView:textfield title:@"安全键盘" type:CustomKeyboardTypeLetter|CustomKeyboardTypeCharacters|CustomKeyboardTypeNumber radom:YES];
     
     // Do any additional setup after loading the view, typically from a nib.
 }
