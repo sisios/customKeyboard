@@ -20,7 +20,6 @@
 		0A23344F1FE22DD0005F3389 /* CustomKeyboardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A23344E1FE22DD0005F3389 /* CustomKeyboardCell.m */; };
 		0A2334521FE22E05005F3389 /* UITextField+SecurityText.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A2334511FE22E05005F3389 /* UITextField+SecurityText.m */; };
 		0A2334A21FE2C727005F3389 /* File.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0A2334A41FE2C727005F3389 /* File.strings */; };
-		0A34E0071FECFF6C008B0D81 /* test.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 0A34E0061FECFF6C008B0D81 /* test.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,7 +69,6 @@
 		0A2334A11FE2C721005F3389 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 		0A2334A31FE2C727005F3389 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/File.strings; sourceTree = "<group>"; };
 		0A2334A51FE2C728005F3389 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/File.strings"; sourceTree = "<group>"; };
-		0A34E0061FECFF6C008B0D81 /* test.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = test.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +99,6 @@
 		0A2334081FE22D4B005F3389 = {
 			isa = PBXGroup;
 			children = (
-				0A34E0061FECFF6C008B0D81 /* test.rtf */,
 				0A2334131FE22D4B005F3389 /* CustomKeyboard */,
 				0A23342C1FE22D4B005F3389 /* CustomKeyboardTests */,
 				0A2334371FE22D4B005F3389 /* CustomKeyboardUITests */,
@@ -282,7 +279,6 @@
 				0A2334211FE22D4B005F3389 /* LaunchScreen.storyboard in Resources */,
 				0A23341E1FE22D4B005F3389 /* Assets.xcassets in Resources */,
 				0A23341C1FE22D4B005F3389 /* Main.storyboard in Resources */,
-				0A34E0071FECFF6C008B0D81 /* test.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
